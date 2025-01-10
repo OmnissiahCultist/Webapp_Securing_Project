@@ -1,0 +1,19 @@
+#This file is used to define what Git should avoid
+#cloning for version control
+
+#Python-generated
+__pycache__/
+*.pyc
+
+#Virtual env
+venv/
+
+#Environment variables, these are sensitive and normally
+#shouldnot be replicated
+.env
+
+#Docker
+*.db
+
+#Set the readme file to ignored also
+readme.txt

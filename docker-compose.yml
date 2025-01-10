@@ -1,0 +1,28 @@
+#DOCKER COMPOSE INSTRUCTIONS to pull mysql from docker website
+#and generate the container for the flask webapp
+
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: flask_webapp
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=run.py
+      - DATABASE_URL=mysql:://root:rootpassword@db/appdb
+
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: appdb
+    ports:
+    - "3306:3306"
