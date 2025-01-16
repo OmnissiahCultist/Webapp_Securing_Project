@@ -13,8 +13,12 @@ This is still under construction as I learn the different methods a webapp can b
 
 Here is a rough outline of ideas -> [Rough Project Outline](github_docs/outline.md)
 
+<br>
+
+## Network Infrastructure
+
 This is a rough idea for my project initial unsecure architecture. I would like to represent more as I plan on adding controls that can fit nicely on the chart (like firewalls, IDS/IPS, etc.) but changes to things like code structure (to protect against SQL inject, XSS, etc.) I am unsure where to fit that in documents, but I'll address that once I actually begin modifying the code.
 
----
+<br>
 
 ![Rough Network Idea](github_docs/Inital_RoughDraftDiagram.drawio.png)
