@@ -1,4 +1,4 @@
-Here is an outline of the goals and milestones for my Flask project, with a focus on integrating security controls and enhancing the overall architecture of the application. The project aims to develop a self-made SIEM using open-source tools, automate threat intelligence gathering, and implement secure coding practices. I am still working to figure things out, this list is will fluctuate as I get more of an idea for the threat landscape surrounding my really minimal webapp.
+Here is an rough outline of the goals and milestones for my Flask project, with a focus on integrating security controls and enhancing the overall architecture of the application. The project aims to develop a self-made SIEM using open-source tools, automate threat intelligence gathering, and implement secure coding practices. I am still working to figure things out, this list is will fluctuate as I get more of an idea for the threat landscape surrounding my really minimal webapp.
 
 ---
 
