@@ -2,7 +2,7 @@
 
 # UNDER CONSTRUCTION
 
-This is still under construction as I learn the different methods a webapp can be deployed.
+This is still under construction as I learn the different methods a webapp can be deployed, I plan on documenting the journey of securing it!
 
 Once I get more comfortable deploying, I will begin security hardening of all facets of the project along with some penetration testing to simulate attacks. This project is ongoing, with continuous updates to track improvements in security controls over time. Ideally I set up a database that can store user login information, possibly more, anything to get a foundation of authenticated users. I aim to keep a chronological log of milestones/security controls implemented to identify where an unsecure software has gone from baseline, to it's current more secure state.
 
@@ -11,7 +11,9 @@ Once I get more comfortable deploying, I will begin security hardening of all fa
 <br>
 <br>
 
-# **PLANNING:** Flask Project Goals: Building a Security-Focused Web Application
+# [ Initial Hopes and Dreams ]
+
+## **PLANNING:** Flask Project Goals: Building a Security-Focused Web Application
 
 Here is an outline of the goals and milestones for my Flask project, with a focus on integrating security controls and enhancing the overall architecture of the application. The project aims to develop a self-made SIEM using open-source tools, automate threat intelligence gathering, and implement secure coding practices. I am still working to figure things out, this list is will fluctuate as I get more of an idea for the threat landscape surrounding my really minimal webapp.
 
