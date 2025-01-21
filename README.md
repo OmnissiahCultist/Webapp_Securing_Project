@@ -1,11 +1,11 @@
 ---
 
 # UNDER CONSTRUCTION
-Still organizing the environment and project goals.
+Still organizing the environment and project goals. I will be documenting my progress and thoughts along the way, this project is more to serve as practice for me so this will be updated infrequently.
 
 <br>
-
-# [ Initial Hopes and Dreams ]
+<details>
+  <summary><h1>[ Initial Hopes and Dreams ]</h1></summary>
 
 This is still under construction as I learn the different methods a webapp can be deployed, I plan on documenting the journey of securing it!
 
@@ -22,3 +22,11 @@ This is a rough idea for my project initial unsecure architecture. I would like 
 <br>
 
 ![Rough Network Idea](github_docs/Inital_RoughDraftDiagram.drawio.png)
+
+</details>
+<br>
+
+<details>
+  <summary><h1>[ Jan. 21, 2025 ]</h1></summary>
+
+</details>
