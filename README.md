@@ -24,7 +24,6 @@ This is a rough idea for my project initial unsecure architecture. I would like 
 ![Rough Network Idea](github_docs/Inital_RoughDraftDiagram.drawio.png)
 
 </details>
-<br>
 
 <details>
   <summary><h1>[ Jan. 21, 2025 ]</h1></summary>
