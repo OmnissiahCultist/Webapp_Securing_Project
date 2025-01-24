@@ -28,7 +28,7 @@ This is a rough idea for my project initial unsecure architecture. I would like 
 <details>
   <summary><h1>[ Jan. 21, 2025 ]</h1></summary>
 
-  Here is an updated network architecture diagrgam that is a bit more accurate. I will be switching from mySQL to PostgreSQL for scalibility (and mySQL was not working with my environment initially). I will also be adding nginx for a rerverse proxy, and then gunicorn for the web app hosting with Flask all on one device. I have to learn all of these still in order to deploy them in it's entirety but I still think this foundation will be easier to modify as I implement security features. There are now multiple physical devices at play and will be facilitated by my home network for the lab.
+  Here is an updated network architecture diagram that is a bit more accurate. I will be switching from mySQL to PostgreSQL for scalibility (and mySQL was not working with my environment initially). I will also be adding nginx for a rerverse proxy, and then gunicorn for the web app hosting with Flask all on one device. I have to learn all of these still in order to deploy them in it's entirety but I still think this foundation will be easier to modify as I implement security features. There are now multiple physical devices at play and will facilitate my lab network.
 
 <br>
 
