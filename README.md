@@ -1,7 +1,7 @@
 ---
 
-# UNDER CONSTRUCTION
-Still organizing the environment and project goals. I will be documenting my progress and thoughts along the way, this project is more to serve as practice for me so this will be updated infrequently.
+# Archived
+This idea of utilizing python to facilitate a web service is something that I continue to shape future projects with so this was more of a stepping-stone.
 
 <br>
 <details>
